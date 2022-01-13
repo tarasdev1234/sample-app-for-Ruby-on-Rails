@@ -13,8 +13,8 @@ To get started with the app, first follow the setup steps in [Section 1.1 Up and
 Next, clone the repo and `cd` into the directory:
 
 ```
-$ git clone https://github.com/mhartl/sample_app_6th_ed.git
-$ cd sample_app_6th_ed
+$ git clone git@github.com:tarasdev1234/sample-app-for-Ruby-on-Rails.git
+$ cd sample-app-for-Ruby-on-Rails
 ```
 
 Also make sure you’re using a compatible version of Node.js:
